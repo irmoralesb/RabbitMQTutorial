@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "RpcClient"
+		},
+		{
+			"path": "RPCServer"
+		}
+	],
+	"settings": {}
+}
